@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "vue-router": "^4.4.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
